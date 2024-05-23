@@ -1,0 +1,15 @@
+{
+"name":"cariculetico",
+"version":"1.0.0",
+"type": "module",
+"description": "Diviertete en la consolag",
+  "license": "MIT",
+  "repository": "programadorisgod/cariculetico",
+  "main": "index.js",
+  "keywords": [
+    "cariculetico",
+    "npm",
+    "package",
+    "programadorisgod"
+  ]
+}
